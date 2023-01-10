@@ -15,5 +15,5 @@ def find_max_count(data):
 
     return count
 
-print(find_max_count([5,1, 2, 5, 3, 4, 5]))
+print(find_max_count([1, 2, 5, 3, 4, 5]))
 
