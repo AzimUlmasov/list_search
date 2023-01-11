@@ -7,4 +7,3 @@ def find_max_min_sum(data):
     """
     return data[0] + data[-1]
 
-print(find_max_min_sum([2, 2, 3, 4, 5, 9]))
